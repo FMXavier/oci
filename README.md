@@ -1,0 +1,2 @@
+# oci
+Repositório de Terraform
